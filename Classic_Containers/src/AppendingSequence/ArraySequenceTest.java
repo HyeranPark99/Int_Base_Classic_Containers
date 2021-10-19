@@ -6,12 +6,9 @@ public class ArraySequenceTest {
 		ArraySequence arraySequence = new ArraySequence();
 		int number = 0;
 		
-		//Answer is 
-		//arraySequence.add(arraySequence.size, number);
 		
-		//int pos = arraySequence.get(pos);
 		
-		//arraySequence.add(pos, number);
+		
 		arraySequence.isEmpty();
 		arraySequence.add(0, 1);
 		arraySequence.isEmpty();
