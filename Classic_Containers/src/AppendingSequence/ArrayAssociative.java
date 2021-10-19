@@ -21,25 +21,9 @@ public class ArrayAssociative {
 	}
 	
 	
-//	public void remove2(int value) {
-//		for(int i = 0; i < arraySequence.size(); i++){
-//			if(value == arraySequence.get(i)){
-//				arraySequence.remove(i);
-//			}	
-//		}	
-//
-//	}
 
-	
 
-//	public boolean contains(int value) {
-//		
-//		for(int i = 0; i < arraySequence.size(); i++){
-//			if(value == arraySequence.get(i))
-//				return true;
-//			}		
-//		return false; 
-//	}
+
 	
 	
 	public boolean contains(int value) {
@@ -53,19 +37,7 @@ public class ArrayAssociative {
 	
 	
 	
-//	private int find(int value) {
-//		int pos=0;
-//		for(int i = 0; i < arraySequence.size(); i++){
-//			if(value == arraySequence.get(i)){
-//				pos = i;
-//				break;
-//			}else{
-//				pos = -1;
-//			}	
-//		}
-//		
-//		return pos;
-//	}
+
 	
 	
 	private int find(int value) {
